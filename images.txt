@@ -3,3 +3,4 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 ubuntu
 centos
+flannel-cni-plugin:v1.4.1-flannel1
