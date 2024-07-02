@@ -2,3 +2,4 @@ nginx
 ubuntu
 centos
 flannel-cni-plugin:v1.4.1-flannel1
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.1
