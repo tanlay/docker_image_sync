@@ -1,3 +1,4 @@
 oraclelinux:6-slim
 oraclelinux:7-slim
 golang:1.21.2
+openanolis/anolisos:8
