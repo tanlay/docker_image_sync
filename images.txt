@@ -1,1 +1,1 @@
-raesene/bwapp
+starrocks/operator:v1.9.7
