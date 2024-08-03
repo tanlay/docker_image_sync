@@ -1,1 +1,3 @@
-starrocks/allin1-ubuntu:2.5.21
+starrocks/allin1-ubuntu:3.0.9
+starrocks/allin1-ubuntu:3.1.13
+starrocks/allin1-ubuntu:3.2.8
