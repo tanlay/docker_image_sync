@@ -1,1 +1,1 @@
-allin1-ubuntu:2.5.21
+starrocks/allin1-ubuntu:2.5.21
