@@ -1,1 +1,2 @@
-starrocks/operator:v1.9.7
+starrocks/fe-ubuntu:3.1.13
+starrocks/be-ubuntu:3.1.13
