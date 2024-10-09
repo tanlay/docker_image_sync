@@ -1,1 +1,2 @@
-kindest/node:v1.23.17
+kubernetesui/metrics-scraper:v1.0.8
+kubernetesui/dashboard:v2.7.0
