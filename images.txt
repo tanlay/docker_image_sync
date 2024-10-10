@@ -1,1 +1,2 @@
-jimmidyson/configmap-reload:v0.8.0
+docker.io/grafana/grafana:9.5.5
+docker.io/jaegertracing/all-in-one:1.46
