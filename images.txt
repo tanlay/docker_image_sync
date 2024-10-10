@@ -1,1 +1,1 @@
-luksa/kubia
+prom/prometheus:v2.41.0
