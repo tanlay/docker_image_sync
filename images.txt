@@ -1,1 +1,1 @@
-docker.io/flannel/flannel:v0.26.1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.45
