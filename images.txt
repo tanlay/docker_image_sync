@@ -1,1 +1,1 @@
-kindest/node:v1.31.2
+kindest/haproxy:v20230606-42a2262b
