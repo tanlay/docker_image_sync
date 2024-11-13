@@ -1,1 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/google_containers/kicbase:v0.0.45
+kindest/node:v1.31.2
