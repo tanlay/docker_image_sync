@@ -1,1 +1,1 @@
-docker.io/istio/proxyv2:1.24.3
+kindest/haproxy:v20230606-42a2262b
