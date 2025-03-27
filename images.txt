@@ -1,1 +1,1 @@
-kindest/haproxy:v20230606-42a2262b
+ alpine:3.15
