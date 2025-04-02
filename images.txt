@@ -1,1 +1,2 @@
-apache/hertzbeat
+victoriametrics/victoria-metrics:v1.95.1
+postgres:15
