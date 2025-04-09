@@ -1,1 +1,1 @@
-centos:7.9
+quay.io/centos/centos:centos7
