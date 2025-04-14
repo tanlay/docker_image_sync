@@ -1,1 +1,1 @@
-centos:7.9
+bytebase/bytebase:3.5.2
