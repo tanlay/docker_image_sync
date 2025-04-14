@@ -1,1 +1,1 @@
-quay.io/centos/centos:centos7
+docker.io/rook/ceph:v1.16.6
