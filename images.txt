@@ -1,1 +1,1 @@
-bytebase/bytebase:3.5.2
+golang:1.24.1
