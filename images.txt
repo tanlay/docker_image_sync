@@ -1,1 +1,1 @@
-docker.io/calico/apiserver:v3.26.1
+postgres:16.4
