@@ -1,1 +1,1 @@
-quay.io/ascend/vllm-ascend:v0.9.1rc1
+quay.io/ascend/vllm-ascend:v0.9.1rc1-openeuler
