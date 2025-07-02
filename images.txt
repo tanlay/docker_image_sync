@@ -1,1 +1,1 @@
-leopony/ollama:latest
+vllm-ascend-dev-image:latest
