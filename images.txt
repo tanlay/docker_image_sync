@@ -1,2 +1,1 @@
-docker.io/kubesphere/ks-extensions-museum:latest
-docker.io/kubesphere/kubectl:v1.27.16
+docker.io/curlimages/curl:7.85.0
