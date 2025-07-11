@@ -1,1 +1,1 @@
-docker.io/kubesphere/kubectl:v1.27.4
+docker.io/kubesphere/devops-apiserver:v4.1.3
