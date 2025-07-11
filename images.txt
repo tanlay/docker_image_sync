@@ -1,1 +1,1 @@
-docker.io/kubesphere/devops-controller:v4.1.3
+golang:1.24.1
