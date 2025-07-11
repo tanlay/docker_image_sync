@@ -1,1 +1,1 @@
-docker.io/grafana/grafana:10.4.1
+docker.io/kubesphere/kubectl:v1.27.4
