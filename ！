@@ -1,5 +1,0 @@
-docker.io/kubesphere/ks-extensions-museum:latest
-docker.io/kubesphere/ks-apiserver:v4.1.2
-docker.io/kubesphere/ks-console:v4.1.2
-docker.io/kubesphere/ks-controller-manager:v4.1.2
-
