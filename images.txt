@@ -1,1 +1,1 @@
-golang:1.24.5
+openeuler-24.03-lts
