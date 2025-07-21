@@ -1,1 +1,4 @@
-openeuler-24.03-lts
+rancher/mirrored-coredns-coredns:1.12.1
+rancher/klipper-helm:v0.9.7-build20250616
+rancher/local-path-provisioner:v0.0.31
+rancher/mirrored-metrics-server:v0.7.2
