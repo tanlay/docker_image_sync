@@ -1,1 +1,1 @@
-docker pull canal/canal-server:v1.1.1
+ghcr.io/apache/flink-kubernetes-operator:0315e91
