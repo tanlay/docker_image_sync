@@ -1,1 +1,1 @@
-ghcr.io/apache/flink-kubernetes-operator:0315e91
+flink:1.20
