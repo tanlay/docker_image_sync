@@ -1,1 +1,1 @@
-docker.io/rook/ceph:v1.16.6
+grafana/grafana:9.5.21
