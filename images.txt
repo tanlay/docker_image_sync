@@ -1,1 +1,1 @@
-tomcat:8.5-jre8-alpine
+docker.io/istio/pilot:1.28.0-distroless
