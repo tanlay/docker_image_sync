@@ -1,1 +1,1 @@
-docker.io/istio/install-cni:1.28.0-distroless
+ghcr.io/flannel-io/flannel-cni-plugin:v1.8.0-flannel1
