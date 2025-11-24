@@ -1,3 +1,1 @@
-quay.io/ceph/ceph:v19.2.3
-quay.io/cephcsi/ceph-csi-operator:v0.4.1
 docker.io/rook/ceph:v1.18.7
