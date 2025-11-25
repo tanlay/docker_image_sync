@@ -1,1 +1,1 @@
-tomcat:8.5-jre8-alpine
+quay.io/ceph/ceph:v19.2.1
