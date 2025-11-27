@@ -1,1 +1,1 @@
-quay.io/argoproj/argocd:latest
+ghcr.io/dexidp/dex:v2.43.0
