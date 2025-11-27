@@ -1,1 +1,5 @@
-docker.io/rook/ceph:v1.18.7
+docker.io/kubernetesui/dashboard-api:1.14.0
+docker.io/kubernetesui/dashboard-auth:1.4.0
+kong:3.9
+docker.io/kubernetesui/dashboard-metrics-scraper:1.2.2
+docker.io/kubernetesui/dashboard-web:1.7.0
