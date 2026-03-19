@@ -1,2 +1,3 @@
-nginx:alpine
-node:18-alpine
+node:20-alpine
+node:22-alpine
+node:23-alpine
