@@ -1,3 +1,1 @@
-node:20-alpine
-node:22-alpine
-node:23-alpine
+ghcr.io/flannel-io/flannel-cni-plugin:v1.9.0-flannel1
