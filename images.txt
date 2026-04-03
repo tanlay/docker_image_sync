@@ -1,2 +1,1 @@
-eclipse-temurin:8-jre-focal
-maven:3.6.3-openjdk-8-slim
+openjdk:8-jre-alpine
