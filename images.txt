@@ -1,1 +1,2 @@
-ghcr.io/flannel-io/flannel-cni-plugin:v1.9.0-flannel1
+eclipse-temurin:8-jre-focal
+maven:3.6.3-openjdk-8-slim
