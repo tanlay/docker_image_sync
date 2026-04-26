@@ -1,1 +1,2 @@
-apache/seatunnel:2.3.10
+golang:1.25-alpine
+golang:1.26-alpine
