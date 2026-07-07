@@ -1,2 +1,1 @@
-golang:1.25-alpine
-golang:1.26-alpine
+apache/kafka:4.2.1
