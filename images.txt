@@ -1,1 +1,1 @@
-apacherocketmq/rocketmq-dashboard
+registry.k8s.io/metrics-server/metrics-server:v0.9.0
