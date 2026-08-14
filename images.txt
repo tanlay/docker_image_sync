@@ -1,10 +1,1 @@
-desktop-kubernetes:kubernetes-v1.36.1-cni-v1.9.1-critools-v1.35.0-cri-dockerd-v0.4.4-1-debian
-desktop-storage-provisioner:v4.0
-desktop-vpnkit-controller:v4.0
-desktop-kubernetes-etcd:3.6.8-0
-desktop-kubernetes-coredns:v1.14.2
-desktop-kubernetes-pause:3.10.2
-desktop-kubernetes-apiserver:v1.36.1
-desktop-kubernetes-controller-manager:v1.36.1
-desktop-kubernetes-scheduler:v1.36.1
-desktop-kubernetes-proxy:v1.36.1
+docker/desktop-kubernetes:kubernetes-v1.36.1-cni-v1.9.1-critools-v1.35.0-cri-dockerd-v0.4.4-1-debian
