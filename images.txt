@@ -1,1 +1,1 @@
-quay.io/kiwigrid/k8s-sidecar:2.10.1
+quay.io/prometheus/alertmanager:v0.33.1
