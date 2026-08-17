@@ -1,1 +1,2 @@
-quay.io/prometheus/prometheus:v3.13.2-distroless
+longhornio/longhorn-manager:v1.6.0
+longhornio/longhorn-ui:v1.6.0
