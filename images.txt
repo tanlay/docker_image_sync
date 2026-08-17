@@ -1,2 +1,1 @@
-storage-provisioner:v4.0
-vpnkit-controller:v4.0
+quay.io/prometheus/node-exporter:v1.12.1-distroless
