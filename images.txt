@@ -1,1 +1,2 @@
-docker.io/calico/apiserver:v3.25.0
+quay.io/kiwigrid/k8s-sidecar:2.10.1
+quay.io/prometheus/node-exporter:v1.12.1-distroless
