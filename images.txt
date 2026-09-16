@@ -1,1 +1,1 @@
-quay.io/tigera/operator:v1.42.6
+quay.io/calico/pod2daemon-flexvol:v3.32.2
