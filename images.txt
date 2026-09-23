@@ -1,7 +1,1 @@
-quay.io/kiwigrid/k8s-sidecar:2.11.2
-docker.io/grafana/grafana:13.2.2-distroless
-docker.io/library/busybox:1.38.0
-quay.io/prometheus-operator/prometheus-operator:v0.94.0
 registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.20.0
-quay.io/prometheus/alertmanager:v0.34.1
-quay.io/prometheus-operator/prometheus-config-reloader:v0.94.0
